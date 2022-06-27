@@ -1,0 +1,22 @@
+{
+  "name": "qa-engineer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgpricing-development/qa-engineer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgpricing-development/qa-engineer/issues"
+  },
+  "homepage": "https://github.com/mgpricing-development/qa-engineer#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
